@@ -129,7 +129,7 @@ O site é totalmente responsivo e se adapta aos seguintes dispositivos:
 
 - [GitHub](https://github.com/IBrunooDev)
 - [LinkedIn](https://www.linkedin.com/in/brunocarus/?originalSubdomain=br)
-- [Instagram](https://www.instagram.com/ibrunoodev)
+- [Instagram](https://www.instagram.com/bdev.404)
 ---
 
 Desenvolvido com :heart: por [IBrunooDev](https://github.com/IBrunooDev) 
